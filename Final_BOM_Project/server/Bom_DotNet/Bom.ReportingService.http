@@ -1,0 +1,6 @@
+@Bom.ReportingService_HostAddress = http://localhost:5103
+
+GET {{Bom.ReportingService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
